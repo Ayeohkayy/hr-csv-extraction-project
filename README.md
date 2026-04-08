@@ -54,6 +54,11 @@ The following synthetic datasets were used:
 All data was generated programmatically in R for portfolio purposes.
 
 ---
+## Data Volume
+- Employees: ~10,000 records
+- Performance Reviews: ~26,000 records
+- Compensation History: ~77,000 records
+---
 
 ## Project Workflow
 

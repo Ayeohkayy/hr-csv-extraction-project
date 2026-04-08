@@ -38,6 +38,10 @@ This project successfully:
 - **SQL**
 
 ---
+## Core Focus
+While R is used for data extraction and loading, the primary focus of this project is SQL-based data modeling and staging design.
+
+---
 
 ## Source Data
 The following synthetic datasets were used:
